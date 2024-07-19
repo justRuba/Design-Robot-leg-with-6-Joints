@@ -9,7 +9,8 @@ This project involves designing a robot leg with 6 servo motor joints in TinkerC
 
  - Back View:
 
-![WhatsApp Image 2024-07-19 at 22 05 43_f6dcca2c](https://github.com/user-attachments/assets/213e9a8b-dfd7-4b8a-9076-be63a503ed69)
+![WhatsApp Image 2024-07-19 at 22 07 28_d0988937](https://github.com/user-attachments/assets/c58b362b-5aed-4081-93b9-2e2dcbdd384c)
+
 
 
 
